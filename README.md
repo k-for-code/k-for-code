@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaushal Kumar Prajapati
 - 👀 I’m interested in Deep Learning Applications
-- 🌱 I’m currently learning Cross Attention
+- 🌱 I’m currently learning Model Compression
 - 💞️ I’m looking to collaborate on any new transformer based model
 - 📫 How to reach me  kaushalcse07@gmail.com
 
